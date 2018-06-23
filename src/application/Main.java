@@ -12,7 +12,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.shape.Rectangle;
 import javafx.scene.text.Text;
 
-
+//	Please fix the access restriction
 public class Main extends Application {
 	@Override
 	public void start(Stage stage) {
